@@ -1,16 +1,28 @@
 ## Hi there 👋
+# Merhaba, ben Kübra Dur
 
-<!--
-**kubradur/kubradur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Full-stack geliştirme alanında C#, Python, HTML ve CSS ile yenilikçi yazılım çözümleri üretmeye odaklanıyorum. Backend ve frontend teknolojilerinde yetkinliğimi geliştirmeyi,analitik düşünme becerilerimi kullanarak etkili ve sürdürülebilir projelere katkı sağlamayı hedefliyorum
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Teknik Beceriler
+
+- Python→ Orta–İleri seviye  
+- C# → Orta seviye  
+- Kotlin (Mobil Programlama) → Orta seviye  
+- SQL → Başlangıç  
+- HTML, CSS, Bootstrap → Orta–İleri seviye  
+- Java, PHP, C++ → Temel seviye (syntax bilgisi ve yapısal kavrayış)  
+
+
+# Dil Yetenekleri
+- İngilizce → Orta–İleri seviye  
+- Rusça → Başlangıç seviyesi  
+
+
+# Hedeflerim
+- Web arayüz tasarımı ve mobil geliştirme alanlarında daha derinleşmek  
+- Gelecekte **yapay zekâ** ve **siber güvenlik** konularında araştırmalar yapmak  
+- Kullanıcı odaklı, yaratıcı ve işlevsel dijital projeler üretmek  
+
+
+Her satır kod, öğrenmenin yeni bir adımıdır.
