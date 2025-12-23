@@ -1,8 +1,11 @@
+
 <div align="center">
 
 # 👩‍💻 Hatice Kübra Dur
 
-**Yazılım Geliştirici | C# & Python**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+the+Future+with+AI;C%23+%7C+Python+%7C+Kotlin;Innovative+Web+Solutions" alt="Typing SVG" />
+</a>
 
 <p>
   <em>"Veri bilimi, yapay zeka ve web geliştirme alanlarında yenilikçi çözümler üretiyorum."</em>
@@ -56,5 +59,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kubradur&style=flat-square&color=blue&label=Profil+Görüntülenmesi" alt="Ziyaretçi Sayısı" />
 </div>
-
-
