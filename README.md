@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👩‍💻 Hatice Kübra Dur
@@ -55,11 +54,7 @@
 ---
 
 <div align="center">
-
-### 📊 İstatistikler
-
-<img src="https://github-readme-stats.vercel.app/api?username=kubradur&show_icons=true&locale=tr" height="170" alt="stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubradur&layout=compact&locale=tr" height="170" alt="languages" />
-
+  <img src="https://komarev.com/ghpvc/?username=kubradur&style=flat-square&color=blue&label=Profil+Görüntülenmesi" alt="Ziyaretçi Sayısı" />
 </div>
+
+
