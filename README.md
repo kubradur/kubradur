@@ -46,7 +46,7 @@
 
 ---
 
-### 🎯 Hedeflerim
+### Hedeflerim
 
 *  **Web arayüz tasarımı** ve **mobil geliştirme** alanlarında derinleşmek.
 *  **Yapay zekâ** ve **siber güvenlik** konularında bilgi ve deneyim kazanmak.
