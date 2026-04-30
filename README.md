@@ -48,11 +48,11 @@
 
 ### 🎯 Hedeflerim
 
-* 🔭 **Web arayüz tasarımı** ve **mobil geliştirme** alanlarında derinleşmek.
-* 🔐 **Yapay zekâ** ve **siber güvenlik** konularında bilgi ve deneyim kazanmak.
-* 💡 Yaratıcı, kullanıcı odaklı ve işlevsel dijital projeler üretmek.
+*  **Web arayüz tasarımı** ve **mobil geliştirme** alanlarında derinleşmek.
+*  **Yapay zekâ** ve **siber güvenlik** konularında bilgi ve deneyim kazanmak.
+*  Yaratıcı, kullanıcı odaklı ve işlevsel dijital projeler üretmek.
 
-> ⚡ **Motto:** *“Her satır kod, öğrenmenin yeni bir adımıdır.”*
+> ⚡*“Her satır kod, öğrenmenin yeni bir adımıdır.”*
 
 ---
 
